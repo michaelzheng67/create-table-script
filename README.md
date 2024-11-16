@@ -18,11 +18,11 @@ python3 create_table.py "Age,Education,Marital Status, Gender, Political Party"
 
 Then we just enter in the data comma-separated, each time the script asks us for it
 
-`
+```
 Column values for Age: 49,25,31,45,59,29,54,42,34,53,35,21
 Column values for Education: Bachelors,HS-grad,HS-grad,Bachelors,HS-grad,HS-grad,HS-grad,Bachelors,HS-grad,HS-grad,HS-grad,HS-grad
 ...
-`
+```
 
 Then we get the table we want!
 ```
