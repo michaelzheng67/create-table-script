@@ -25,7 +25,7 @@ Column values for Education: Bachelors,HS-grad,HS-grad,Bachelors,HS-grad,HS-grad
 `
 
 Then we get the table we want!
-
+```
 ---------------------------------------------------------------
 |Age |Education |Marital Status     | Gender | Political Party |
 ---------------------------------------------------------------
@@ -53,4 +53,4 @@ Then we get the table we want!
 ---------------------------------------------------------------
 |21  |HS-grad   |Never-married      |Male    |Green            |
 ---------------------------------------------------------------
-
+```
