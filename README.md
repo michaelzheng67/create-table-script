@@ -7,14 +7,15 @@ works on my computer running python3.7
 Example Usage:
 
 Pretend we wanted to recreate this table in plaintext:
+
 ![Screenshot 2024-11-16 at 1 36 38 PM](https://github.com/user-attachments/assets/2229c7e5-5686-4cf9-b271-33b8127e55ab)
 
-We would first call on the script including a comma-separated string of header titles
+We would first call on the script including a comma-separated string of header titles \n
 ` 
 python3 create_table.py "Age,Education,Marital Status, Gender, Political Party"
 `
 
-Then we just enter in the data each time the script asks us for it
+Then we just enter in the data each time the script asks us for it \n
 `
 Column values for Age: 49,25,31,45,59,29,54,42,34,53,35,21
 Column values for Education: Bachelors,HS-grad,HS-grad,Bachelors,HS-grad,HS-grad,HS-grad,Bachelors,HS-grad,HS-grad,HS-grad,HS-grad
@@ -22,7 +23,7 @@ Column values for Education: Bachelors,HS-grad,HS-grad,Bachelors,HS-grad,HS-grad
 `
 
 Then we get the table we want!
-`
+` 
 ---------------------------------------------------------------
 |Age |Education |Marital Status     | Gender | Political Party |
 ---------------------------------------------------------------
@@ -50,4 +51,4 @@ Then we get the table we want!
 ---------------------------------------------------------------
 |21  |HS-grad   |Never-married      |Male    |Green            |
 ---------------------------------------------------------------
-`
+` 
